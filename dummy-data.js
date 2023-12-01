@@ -11,9 +11,9 @@ const DUMMY_EVENTS = [
   },
   {
     id: "e2",
-    title: "Networking for introverts",
+    title: "Gaming day",
     description:
-      "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
+      "Get ready for a gaming extravaganza! Join us for a night of fun, competition, and prizes. Whether you're a pro or casual gamer, it's time to level up the excitement and connect with fellow gaming enthusiasts!",
     location: "New Wall Street 5, 98765 New Work",
     date: "2021-05-30",
     image: "images/gaming-event.jpg",
@@ -21,9 +21,9 @@ const DUMMY_EVENTS = [
   },
   {
     id: "e3",
-    title: "Networking for extroverts",
+    title: "Poker time",
     description:
-      "You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.",
+      "Experience the thrill of poker at our exclusive event! Join us for an evening of skill, strategy, and camaraderie. Whether you're a pro or a casual player, enjoy high-stakes excitement, win prizes, and shuffle up for a night of unforgettable fun!",
     location: "My Street 12, 10115 Broke City",
     date: "2022-04-10",
     image: "images/poker-event.jpg",
